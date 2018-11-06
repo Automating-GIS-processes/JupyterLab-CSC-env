@@ -8,5 +8,9 @@ export GIT_COMMITTER_EMAIL=anon@localhost
 
 # Configure
 git clone https://github.com/Automating-GIS-processes/notebooks.git
+
+# Pull
+git pull origin master
+
 # Go to containing folder
 cd /home/jovyan/work/notebooks/notebooks
